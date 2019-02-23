@@ -308,10 +308,13 @@
     <Compile Include="Assets\Scripts\ChapterScripts_5\FontRefresh.cs" />
     <Compile Include="Assets\Scripts\ChapterScripts_5\GuideTexMove.cs" />
     <Compile Include="Assets\Scripts\ChapterScripts_5\JoystickMove.cs" />
+    <Compile Include="Assets\Scripts\ChapterScripts_5\UIGray.cs" />
+    <Compile Include="Assets\Scripts\ChapterScripts_5\UIOrder.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Editor\ScriptTemplates\C# Script-MyNewBehaviourScript.cs.txt" />
     <None Include="Assets\Scripts\Shader\Default_Mask.shader" />
+    <None Include="Assets\Scripts\Shader\UIGray.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

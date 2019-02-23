@@ -306,6 +306,7 @@
   <ItemGroup>
     <None Include="Assets\Editor\ScriptTemplates\C# Script-MyNewBehaviourScript.cs.txt" />
     <None Include="Assets\Scripts\Shader\Default_Mask.shader" />
+    <None Include="Assets\Scripts\Shader\UIGray.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
