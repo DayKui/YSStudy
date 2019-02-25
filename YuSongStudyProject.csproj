@@ -303,10 +303,12 @@
     <Compile Include="Assets\Scripts\ChapterScripts_4\TestMyScript.cs" />
     <Compile Include="Assets\Scripts\ChapterScripts_4\TestTimer.cs" />
     <Compile Include="Assets\Scripts\ChapterScripts_4\TimerCtrl.cs" />
+    <Compile Include="Assets\Scripts\ChapterScripts_5\CustomScrollRect.cs" />
     <Compile Include="Assets\Scripts\ChapterScripts_5\EventStudy.cs" />
     <Compile Include="Assets\Scripts\ChapterScripts_5\FindRaycast.cs" />
     <Compile Include="Assets\Scripts\ChapterScripts_5\FontRefresh.cs" />
     <Compile Include="Assets\Scripts\ChapterScripts_5\GuideTexMove.cs" />
+    <Compile Include="Assets\Scripts\ChapterScripts_5\InputListener.cs" />
     <Compile Include="Assets\Scripts\ChapterScripts_5\JoystickMove.cs" />
     <Compile Include="Assets\Scripts\ChapterScripts_5\UIGray.cs" />
     <Compile Include="Assets\Scripts\ChapterScripts_5\UIOrder.cs" />
