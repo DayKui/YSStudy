@@ -311,6 +311,7 @@
     <None Include="Assets\Resources\TestAsset.txt" />
     <None Include="Assets\Scripts\Shader\Default_Mask.shader" />
     <None Include="Assets\Scripts\Shader\UIGray.shader" />
+    <None Include="Assets\StreamingAssets\TestAsset1.txt" />
     <None Include="Assets\test.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

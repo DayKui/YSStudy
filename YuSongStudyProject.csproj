@@ -297,8 +297,10 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\ChapterScript_8\DifferentPlotStudy.cs" />
     <Compile Include="Assets\Scripts\ChapterScript_8\PlayerPrefsStudy.cs" />
+    <Compile Include="Assets\Scripts\ChapterScript_8\RecordUtil.cs" />
     <Compile Include="Assets\Scripts\ChapterScript_8\ScrializableDictionary.cs" />
     <Compile Include="Assets\Scripts\ChapterScript_8\TestAssetStudy.cs" />
+    <Compile Include="Assets\Scripts\ChapterScript_8\TestRecordUtil.cs" />
     <Compile Include="Assets\Scripts\ChapterScripts_4\ConsoleError.cs" />
     <Compile Include="Assets\Scripts\ChapterScripts_4\CoroutionTest.cs" />
     <Compile Include="Assets\Scripts\ChapterScripts_4\FPSSample.cs" />
@@ -323,6 +325,7 @@
     <None Include="Assets\Resources\TestAsset.txt" />
     <None Include="Assets\Scripts\Shader\Default_Mask.shader" />
     <None Include="Assets\Scripts\Shader\UIGray.shader" />
+    <None Include="Assets\StreamingAssets\TestAsset1.txt" />
     <None Include="Assets\test.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

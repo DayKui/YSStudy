@@ -16,8 +16,8 @@ public class DifferentPlotStudy : MonoBehaviour
 
 	void Start()
 	{
-		m_ResourcesTxt = Resources.Load<TextAsset> ("test").text;
-		m_StreamingAssetsTxt = File.ReadAllText (System.IO.Path.Combine (Application.streamingAssetsPath, "test.txt"));
+		m_ResourcesTxt = Resources.Load<TextAsset> ("TestAsset").text;
+		m_StreamingAssetsTxt = File.ReadAllText (System.IO.Path.Combine (Application.streamingAssetsPath, "TestAsset1.txt"));
 	}
 
 	void OnGUI()
