@@ -295,12 +295,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="YuSongStudyProject.Plugins.csproj">
+      <Project>{3B757778-86DD-577D-5336-C4CB3F7853AC}</Project>
+      <Name>YuSongStudyProject.Plugins</Name>
+    </ProjectReference>
     <ProjectReference Include="YuSongStudyProject.csproj">
       <Project>{63D5F1D7-B489-5670-8E9D-1B99178AF995}</Project>
       <Name>YuSongStudyProject</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Editor\Chapter8\CreateXml.cs" />
     <Compile Include="Assets\Editor\Chapter8\EditoFileStudy.cs" />
     <Compile Include="Assets\Editor\Chapter8\FindPath.cs" />
     <Compile Include="Assets\Editor\Chapter8\TestSerDic.cs" />
@@ -308,11 +313,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Editor\ScriptTemplates\C# Script-MyNewBehaviourScript.cs.txt" />
+    <None Include="Assets\Plugins\YamlDotNet\Readme.txt" />
+    <None Include="Assets\Plugins\YamlDotNet\YamlDotNet.license.txt" />
     <None Include="Assets\Resources\TestAsset.txt" />
     <None Include="Assets\Scripts\Shader\Default_Mask.shader" />
     <None Include="Assets\Scripts\Shader\UIGray.shader" />
     <None Include="Assets\StreamingAssets\TestAsset1.txt" />
+    <None Include="Assets\StreamingAssets\yaml.txt" />
     <None Include="Assets\test.txt" />
+    <None Include="Assets\test.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
