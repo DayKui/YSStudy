@@ -309,6 +309,8 @@
     <Compile Include="Assets\Scripts\ChapterScript_8\TestRecordUtil.cs" />
     <Compile Include="Assets\Scripts\ChapterScript_8\YamlSerStudy.cs" />
     <Compile Include="Assets\Scripts\ChapterScript_8\YamlStudy.cs" />
+    <Compile Include="Assets\Scripts\ChapterScript_9\ChangeLightMap.cs" />
+    <Compile Include="Assets\Scripts\ChapterScript_9\PrefabLightMap.cs" />
     <Compile Include="Assets\Scripts\ChapterScripts_4\ConsoleError.cs" />
     <Compile Include="Assets\Scripts\ChapterScripts_4\CoroutionTest.cs" />
     <Compile Include="Assets\Scripts\ChapterScripts_4\FPSSample.cs" />
