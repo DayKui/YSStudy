@@ -309,6 +309,7 @@
     <Compile Include="Assets\Editor\Chapter8\EditoFileStudy.cs" />
     <Compile Include="Assets\Editor\Chapter8\FindPath.cs" />
     <Compile Include="Assets\Editor\Chapter8\TestSerDic.cs" />
+    <Compile Include="Assets\Editor\Chapter9\DuplicatePrefab.cs" />
     <Compile Include="Assets\Editor\ScriptTemplateExpand.cs" />
   </ItemGroup>
   <ItemGroup>
