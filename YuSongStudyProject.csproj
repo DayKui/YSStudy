@@ -303,6 +303,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\ChapterScript_10\MicrophoneClip.cs" />
     <Compile Include="Assets\Scripts\ChapterScript_11.cs" />
+    <Compile Include="Assets\Scripts\ChapterScript_11\GCCollect.cs" />
     <Compile Include="Assets\Scripts\ChapterScript_8\DifferentPlotStudy.cs" />
     <Compile Include="Assets\Scripts\ChapterScript_8\PlayerPrefsStudy.cs" />
     <Compile Include="Assets\Scripts\ChapterScript_8\RecordUtil.cs" />

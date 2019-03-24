@@ -6,7 +6,6 @@ public class TestRecordUtil : MonoBehaviour
 {
     void Start()
     {
-
         Setting setting = new Setting();
         setting.stringValue = "测试字符串";
         setting.intValue = 10000;

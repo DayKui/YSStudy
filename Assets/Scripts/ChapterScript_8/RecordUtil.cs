@@ -149,6 +149,7 @@ public class RecordUtil
         }
         else
         {
+            Debug.LogErrorFormat("没有找到key为{0}的本地记录",key);
             return defaultValue;
         }
     }
