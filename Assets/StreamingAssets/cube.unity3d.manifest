@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2669513532
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b3d656c9eaf84919ed4bb957546dc581
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cf3f348e2267d190e6df40cbb42919b5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBuildAssets/Cube2.prefab
+- Assets/AssetBuildAssets/Cube1.prefab
+Dependencies:
+- D:/UnityProject/YuSongStudyProject/Assets/StreamingAssets/normalmat.unity3d

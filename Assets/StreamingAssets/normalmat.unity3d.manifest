@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3554926427
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5d691362f1ec813437a958f9fe421bea
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6f165f44e4778b6c9d85e7a145a54cb1
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBuildAssets/NormalMat.mat
+Dependencies:
+- D:/UnityProject/YuSongStudyProject/Assets/StreamingAssets/normaltex.unity3d
