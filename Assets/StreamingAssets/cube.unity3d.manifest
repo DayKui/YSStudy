@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2669513532
+CRC: 1982801638
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b3d656c9eaf84919ed4bb957546dc581
+    Hash: 3fada265a59c30b296c72efb0b7a83ce
   TypeTreeHash:
     serializedVersion: 2
     Hash: cf3f348e2267d190e6df40cbb42919b5
@@ -28,7 +28,6 @@ ClassTypes:
 - Class: 65
   Script: {instanceID: 0}
 Assets:
-- Assets/AssetBuildAssets/Cube2.prefab
-- Assets/AssetBuildAssets/Cube1.prefab
-Dependencies:
-- D:/UnityProject/YuSongStudyProject/Assets/StreamingAssets/normalmat.unity3d
+- Assets/Resources/Cube.prefab
+- Assets/Resources/Cube1.prefab
+Dependencies: []

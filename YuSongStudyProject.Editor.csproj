@@ -305,6 +305,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Editor\Chapter11\BuildAB.cs" />
     <Compile Include="Assets\Editor\Chapter11\CreatePrefab.cs" />
     <Compile Include="Assets\Editor\Chapter11\EditorUnloadAssets.cs" />
     <Compile Include="Assets\Editor\Chapter11\LoadPrefab.cs" />

@@ -1,15 +1,7 @@
 ManifestFileVersion: 0
-CRC: 1181675830
+CRC: 1539201840
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: normalmat.unity3d
-      Dependencies:
-        Dependency_0: normaltex.unity3d
-    Info_1:
-      Name: normaltex.unity3d
-      Dependencies: {}
-    Info_2:
       Name: cube.unity3d
-      Dependencies:
-        Dependency_0: normalmat.unity3d
+      Dependencies: {}
