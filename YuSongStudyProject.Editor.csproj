@@ -308,6 +308,7 @@
     <Compile Include="Assets\Editor\Chapter11\BuildAB.cs" />
     <Compile Include="Assets\Editor\Chapter11\CreatePrefab.cs" />
     <Compile Include="Assets\Editor\Chapter11\EditorUnloadAssets.cs" />
+    <Compile Include="Assets\Editor\Chapter11\FindReferences.cs" />
     <Compile Include="Assets\Editor\Chapter11\LoadPrefab.cs" />
     <Compile Include="Assets\Editor\Chapter11\NormalBuild.cs" />
     <Compile Include="Assets\Editor\Chapter11\PerfectBuild.cs" />

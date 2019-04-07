@@ -305,8 +305,10 @@
     <Compile Include="Assets\Scripts\ChapterScript_11.cs" />
     <Compile Include="Assets\Scripts\ChapterScript_11\Assets.cs" />
     <Compile Include="Assets\Scripts\ChapterScript_11\BundleList.cs" />
+    <Compile Include="Assets\Scripts\ChapterScript_11\CopyABToPersistent.cs" />
     <Compile Include="Assets\Scripts\ChapterScript_11\GCCollect.cs" />
     <Compile Include="Assets\Scripts\ChapterScript_11\LoadAB.cs" />
+    <Compile Include="Assets\Scripts\ChapterScript_11\LoadProfiler.cs" />
     <Compile Include="Assets\Scripts\ChapterScript_11\TestResAB.cs" />
     <Compile Include="Assets\Scripts\ChapterScript_8\DifferentPlotStudy.cs" />
     <Compile Include="Assets\Scripts\ChapterScript_8\PlayerPrefsStudy.cs" />
