@@ -11,6 +11,7 @@ public class FindReferences
     [MenuItem("Assets/Find References", false, 10)]
     static private void Find()
     {
+        Debug.Log("22222222222222222222");
         Dictionary<string, string> guidDics = new Dictionary<string, string>();
         foreach (Object o in Selection.objects)
         {
@@ -57,6 +58,7 @@ public class FindReferences
     [MenuItem("Assets/Find References", true)]
     static private bool VFind()
     {
+        Debug.Log("1111111111111111111");
         string path = AssetDatabase.GetAssetPath(Selection.activeObject);
         return (!string.IsNullOrEmpty(path));
     }
