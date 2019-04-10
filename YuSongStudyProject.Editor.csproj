@@ -314,7 +314,9 @@
     <Compile Include="Assets\Editor\Chapter11\PerfectBuild.cs" />
     <Compile Include="Assets\Editor\Chapter12\AssetPosts.cs" />
     <Compile Include="Assets\Editor\Chapter12\AssetsPoseEvent.cs" />
+    <Compile Include="Assets\Editor\Chapter12\InvokeMenuItem.cs" />
     <Compile Include="Assets\Editor\Chapter12\PostModel.cs" />
+    <Compile Include="Assets\Editor\Chapter12\SetDirty.cs" />
     <Compile Include="Assets\Editor\Chapter12\SetUIByPost.cs" />
     <Compile Include="Assets\Editor\Chapter12\SetUIFor.cs" />
     <Compile Include="Assets\Editor\Chapter12\SetUITypeByPost.cs" />
